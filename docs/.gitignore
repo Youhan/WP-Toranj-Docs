@@ -1,0 +1,3 @@
+# exclude pdfs
+pdf/*
+!pdf/toranj-docs.pdf
