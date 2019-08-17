@@ -12,5 +12,5 @@
 * [Double Carousel](double-carousel.md)
 * [Image's ratio and grid-sizer](image-size.md)
 * [Updating theme and plugins](update.md)
-* [Change Log](log.md)
+* [Change Log](change-log.md)
 
