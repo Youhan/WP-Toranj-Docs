@@ -1,4 +1,4 @@
-### v 1.0.1
+#### v 1.0.1
 
 
 - Portfolio navgation fix for RTL
@@ -6,27 +6,27 @@
 - dark-sidebar color fix
 - compare image multiinstace added
 
-### v 1.0.2
+#### v 1.0.2
 
 
 - added child theme capability
 - added sample child theme to package
 
-### v 1.0.3
+#### v 1.0.3
 
 - fixed child theme option-tree bug
 - added support for extera css for child theme
 - some rtl  css fixes
 
-### v 1.0.4
+#### v 1.0.4
 
 - fixed menu and blog layout default values
 
-### v 1.0.5
+#### v 1.0.5
 
 - removed the jquery restrict declaration
 
-### v 1.1.0 - 10/7/2014
+#### v 1.1.0 - 10/7/2014
 
 - Added two recommended plugins to enhance ordering
 - Added sub albums to gallery layout's sidebar
@@ -46,7 +46,7 @@
 - Updated child-theme
 
 
-### v 1.2.0 - 10 Oct 2014
+#### v 1.2.0 - 10 Oct 2014
 
 
 - Added New Bulk Gallery plugin
@@ -61,7 +61,7 @@
 - Added de_DE language files
 - Added Fa_IR language files
 - Removed Visual composer activation notice 
-- Updated FontAwesome updated to ### v 4.2
+- Updated FontAwesome updated to #### v 4.2
 
 - Added archive pages links to admin menu setting page
 - Added password protected galleries via bulk gallery plugin
@@ -78,7 +78,7 @@
 - Deprecated "Dark Normal Page" and "Normal Page" templates, you can gain the same with fullwidth templates
 
 
-### v 1.3.0 
+#### v 1.3.0 
 
 - Fixed automatic plugin notifications for bulk gallery
 - Fixed gallery sharing issue
@@ -97,20 +97,20 @@
 
 
 
-### v 1.3.1
+#### v 1.3.1
 
-- Updated Visual Composer plugin to ### v 4.3.5
+- Updated Visual Composer plugin to #### v 4.3.5
 
-- Updated MasterSlider plugin to ### v 2.9.6
+- Updated MasterSlider plugin to #### v 2.9.6
 
 - Fixed responsive issue for regualr portfolio navs
 
 
-### v 1.4.0
+#### v 1.4.0
 
-- Updated Visual Composer plugin to ### v 4.4.2
+- Updated Visual Composer plugin to #### v 4.4.2
 
-- Updated MasterSlider plugin to ### v 2.9.8
+- Updated MasterSlider plugin to #### v 2.9.8
 
 - Added lazyLoading for images as an option to theme
 - Fixed kenburn slider caption font 
@@ -123,14 +123,14 @@
 - Fixed some font-family minor bugs 
 
 
-### v 1.4.1
+#### v 1.4.1
 
-- Fixed FAQ elemets at visual composer ### v 4.4.2
+- Fixed FAQ elemets at visual composer #### v 4.4.2
 
 - Fixed warninig message at video background portfolio
 - Fixed google font selector bug appeared at some fonts like Open Sans
 
-### v 1.5.0
+#### v 1.5.0
 
 - Fixed: video background element's mute mode and removed a warning message
 - Fixed: single Image responsiveness at Firefox and IE
@@ -138,12 +138,12 @@
 - Fixed: warning message at bulk galley single grid page
 - Improved: Bulk gallery taxonomy list thumbnails
 - Removed: Bulk gallery uploader compression
-- Updated: bulk gallery plugin to ### v 1.4
+- Updated: bulk gallery plugin to #### v 1.4
 
 - Fixed: 500px icon at contact page template
 - Updated: woocommerce template files to v2.3.6
 - Added: initial and Max Zoom for google map at contact page via theme options
-- Fixed: bulk gallery slider na### v option
+- Fixed: bulk gallery slider na#### v option
 
 - Fixed: compatibility of bulk gallery grid with ajax loaded portfolio items
 - Fixed: minor compatibility issues at Visual composer elements
@@ -151,7 +151,7 @@
 
 
 
-### v 1.5.1
+#### v 1.5.1
 
 - Updated TGM Plugin activation Plugin
 - Updated Visual Composer to 4.5.1
@@ -163,7 +163,7 @@
 - Updated Woocommerce templated to 2.3.8
 
 
-### v 1.6.0
+#### v 1.6.0
 
 - Added infinit scroll to bulk gallery ( New theme option)
 - Updated Visual Composer to 4.5.3
@@ -193,24 +193,24 @@ v1.7.0
 - Fixed getimagesize function error in function-assets.php 
 - Enhanced password protected galleries sidebar visibility
 - Enhanced Bulk gallery and Kenburn slider admin icons
-- Updated Visual Composer to ### v 4.6.2
+- Updated Visual Composer to #### v 4.6.2
 
 - Updated MasterSlider plugin to 2.18.2
 - Updated Kenburn slider plugin 
 - Updated Bulk Gallery plugin 
 
 
-### v 1.7.1
+#### v 1.7.1
 
-- Updated Visual Composer to ### v 4.7.4
+- Updated Visual Composer to #### v 4.7.4
 
 - Updated MasterSlider plugin to 2.20.4
 - Updated WooCommerce Template files to be compatible with 2.4.7
 
 
-### v 1.8.0
+#### v 1.8.0
 
-- Updated Visual Composer to ### v 4.8.1
+- Updated Visual Composer to #### v 4.8.1
 
 - Updated MasterSlider plugin to 2.22.0
 - Updated WooCommerce Template files to be compatible with 2.4.10
@@ -222,7 +222,7 @@ v1.7.0
 - Fixes visual style of audio player
 - Updates Google Fonts list at theme option
 
-### v 1.9.0
+#### v 1.9.0
 
 - Updated Visual Composer to v4.9.2
 - Updated MasterSlider plugin to 2.26.0
@@ -232,13 +232,13 @@ v1.7.0
 - Fixes an issue with dark absolute page templates
 - Updated bulk gallery plugin to v1.6.2 which is a small bugfix
 
-### v 1.10.0
+#### v 1.10.0
 
 - Updated Visual Composer to 4.11.2.1
 - Updated MasterSlider plugin to v2.29.0
 - Updated WooCommerce Template files to be compatible with 2.5.5
 
-### v 1.11.0
+#### v 1.11.0
 
 - Updated Visual Composer plugin to v4.12
 - Updated Optiontree core to v2.6.0
@@ -254,7 +254,7 @@ v1.7.0
 - Fixed issues with ajax loaded pages
 - The theme is now compitable with WP v4.5.3
 
-### v 1.12.3 1- 22 September 2016
+#### v 1.12.3 1- 22 September 2016
 
 - Compatible with WP 4.6.1
 - Updated Visual Composer plugin to 4.12.1
@@ -264,7 +264,7 @@ v1.7.0
 - Updated Portfolio plugin 
 - Updated Gallery plugin 
 
-### v 1.13.0 
+#### v 1.13.0 
 
 - Compatible with WP 4.7.2
 - Updated Visual Composer to 5.0.1
@@ -275,14 +275,14 @@ v1.7.0
 - Fix RTL issues
 - Fix minor responsive issues
 
-### v 1.14.1
+#### v 1.14.1
 
 - Improved Grid & Masonry layouts
 - Fixed Firefox issues
 - Fixed minor mobile issues
 - Updated Ken Burns plugin
 
-### v 1.15.2
+#### v 1.15.2
 
 - Updated Google analytics code for ajax loader
 - Improved double carousel mouse wheel navigation
@@ -291,7 +291,7 @@ v1.7.0
 - Fix lazyload for portfolio archive
 - Fix contact list in contact page
 
-### v 1.16.0
+#### v 1.16.0
 
 - Compatible with WP 4.7.4
 - Compatible with WooCommerce 3.0.6
@@ -299,11 +299,11 @@ v1.7.0
 - Added Alt text for lightbox images
 - Fixed portfolio vertical group list vc element
 
-### v 1.16.1
+#### v 1.16.1
 
 - Fixes a bug where add to cart button was not working
 
-### v 1.17.1
+#### v 1.17.1
 
 - Compatible with WP v4.7.4
 - Compatible with WooCommerce v3.1.1
@@ -312,7 +312,7 @@ v1.7.0
 - Fixed portfolio horizontal scroll issue
 - Fixed minor issues
 
-### v 1.18.0
+#### v 1.18.0
 
 - Compatible with WP v4.8.3
 - Compatible with WooCommerce v3.2.3
@@ -321,18 +321,18 @@ v1.7.0
 - Depricated old auto update and now using Envato Market Plugin 
 - Fixed minor issues
 
-### v 1.19.0
+#### v 1.19.0
 
 - Compatible with WP v4.9
 - Updated Visual Composer to v5.4.4
 
-### v 1.21.0
+#### v 1.21.0
 
 - Compatible with WP 4.9.8
 - Updated WPBakery Page Builder to 5.5.2
 - Theme and plugins compatible with PHP 7.2
 
-### v 1.23.0 - 17 Aug 2019
+#### v 1.23.0 - 17 Aug 2019
 
 - Compatible with WP 5.2.2
 - Adds autoupdate
