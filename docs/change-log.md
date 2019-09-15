@@ -341,3 +341,7 @@ v1.7.0
 - Updated Master Slider to v3.2.14
 - Update optiontree to v2.7.3
 - Compatible with WC 3.7.0
+
+#### v 1.24.0 - 15 Sep 2019
+
+- adds theme option to force portfolio navigation to be at same group
