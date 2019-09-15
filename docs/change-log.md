@@ -342,6 +342,8 @@ v1.7.0
 - Update optiontree to v2.7.3
 - Compatible with WC 3.7.0
 
-#### v 1.24.0 - 15 Sep 2019
+#### v 1.26.0 - 15 Sep 2019
 
 - adds theme option to force portfolio navigation to be at same group
+- Fixes smooth scroll
+- Fixes portfolio label list to load all portfolios not only 10.
